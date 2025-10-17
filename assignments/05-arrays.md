@@ -13,7 +13,7 @@
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) [## built the cache and computed the prefix sum ##]
 9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) ## instead of creating the heatmap of all the words in sentences . Try to do it other way round. Think if from a to z , are all letters present in the sentence. In the first approach ,we may go over more than 26 times ,as the word may contain more than 26 letters.  But in the later we iterate only 26 times. Sometimes think the other way around too. Here other way around will only take 26 iterations. ##
-11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) ## learnt JIT WARMUP hack.
 12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
